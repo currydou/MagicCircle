@@ -1,9 +1,11 @@
-package com.shadev.pierrebeziercircle;
+package com.shadev.pierrebeziercircle.q1;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+
+import com.shadev.pierrebeziercircle.R;
 
 public class MainActivity extends AppCompatActivity {
 

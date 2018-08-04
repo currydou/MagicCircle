@@ -1,4 +1,4 @@
-package com.shadev.pierrebeziercircle.qq;
+package com.shadev.pierrebeziercircle.q3qq;
 
 import android.animation.ValueAnimator;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.shadev.pierrebeziercircle.qq;
+package com.shadev.pierrebeziercircle.q3qq;
 
 /**
  * Created by next on 2018/8/3.

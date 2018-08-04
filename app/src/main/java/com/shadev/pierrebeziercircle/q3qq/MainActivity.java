@@ -1,4 +1,4 @@
-package com.shadev.pierrebeziercircle.qq;
+package com.shadev.pierrebeziercircle.q3qq;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

@@ -16,5 +16,19 @@
         <attr name="islooper" format="boolean" />
         <attr name="blur_radio" format="integer" />
     </declare-styleable>
+    <declare-styleable name="BezierCircle" >
+        <attr name="bc_visible_count" format="integer"/>
+        <attr name="bc_circle_color" format="color"/>
+    </declare-styleable>
 
+    <declare-styleable name="BezierIndicator">
+        <attr name="bi_visible_count" format="integer"/>
+        <attr name="bi_circle_color" format="color"/>
+    </declare-styleable>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

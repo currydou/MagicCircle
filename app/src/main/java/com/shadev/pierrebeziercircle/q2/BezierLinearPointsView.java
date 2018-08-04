@@ -1,4 +1,4 @@
-package com.shadev.pierrebeziercircle.qw;
+package com.shadev.pierrebeziercircle.q2;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;

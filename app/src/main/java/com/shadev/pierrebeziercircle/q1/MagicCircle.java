@@ -1,4 +1,4 @@
-package com.shadev.pierrebeziercircle;
+package com.shadev.pierrebeziercircle.q1;
 
 import android.content.Context;
 import android.graphics.Canvas;
