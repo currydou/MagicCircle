@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:linearpointsview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.shadev.pierrebeziercircle.qw.BezierLinearPointsView
+        android:id="@+id/ttn"
+        android:layout_width="260dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        linearpointsview:anim_move_duration="400"
+        linearpointsview:anim_reset_duration="200"
+        linearpointsview:anim_shake_duration="500"
+        linearpointsview:blur_radio="2"
+        linearpointsview:count="4"
+        linearpointsview:islooper="false"
+        linearpointsview:pointsize="20dp"
+        linearpointsview:pointstrokewidth="3dp"
+        linearpointsview:select_color="#aaffff"
+        linearpointsview:unselect_color="#ffaaaa" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="pre"
+        android:onClick="onClick" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="next"
+        android:onClick="onClick2" />
+
+</LinearLayout>
+
